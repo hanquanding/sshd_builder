@@ -1,5 +1,5 @@
 # 基础镜像
-FROM ubuntu:18.04
+FROM ubuntu
 
 # 维护者   
 LABEL maintainer hqd<545922113@qq.com>
